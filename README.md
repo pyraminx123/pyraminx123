@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @pyraminx123
 - 📚 I'm currently learning python 🐍 
+- And other stuff...
